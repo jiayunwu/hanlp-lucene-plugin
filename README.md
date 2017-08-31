@@ -5,6 +5,10 @@ HanLP中文分词Lucene插件
 ----------------------
 基于HanLP，支持包括Solr在内的任何基于Lucene的系统。
 
+## 修改项
+	1. 支持 jdk6
+	2. 支持 lucene 3.0.2
+
 ## Maven
 
 ```xml
